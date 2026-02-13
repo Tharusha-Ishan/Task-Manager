@@ -12,14 +12,9 @@ This is a simple app to help you manage your daily tasks. You can add new tasks 
 
 ## Screenshots
 
-### Main Screen
-![Main Screen](Screenshots\Screenshot_20260213_105656.png)
-
-### Add/Edit Task Screen
-![Add Task Screen](Screenshots\Screenshot_20260213_105730.png)
-
-### Task List Screen
-![Add Task Screen](Screenshots\Screenshot_20260213_105908.png)
+| **Main Screen** | **Add/Edit Task Screen** | **Task List Screen** |
+|:---:|:---:|:---:|
+| <img src="Screenshots/Screenshot_20260213_105656.png" alt="Main Screen" width="200"/> | <img src="Screenshots/Screenshot_20260213_105730.png" alt="Add Task Screen" width="200"/> | <img src="Screenshots/Screenshot_20260213_105908.png" alt="Task List Screen" width="200"/> |
 
 ## Design Choices
 I made the app simple so anyone can use it easily.

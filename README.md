@@ -11,7 +11,6 @@
 This is a simple app to help you manage your daily tasks. You can add new tasks with a title and description. If you finish a task, you can check it off to mark it as done. You can also edit a task if you made a mistake or want to change something. If you don't need a task anymore, you can delete it easily. The app saves your tasks automatically so they are still there when you open the app again.
 
 ## Screenshots
-*(Please replace the paths below with your actual screenshot files)*
 
 ### Main Screen
 ![Main Screen](Screenshots\Screenshot_20260213_105656.png)

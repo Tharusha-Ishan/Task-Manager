@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_light">#F5F5F5</color>
+    <color name="black">#FF000000</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryVariant">#3700B3</color>
+    <color name="colorSecondary">#03DAC6</color>
+    <color name="colorSecondaryVariant">#018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="add_task">Add Task</string>
+    <string name="app_name">My Task List</string>
+    <string name="delete">Delete</string>
+    <string name="desc_hint">Description (Optional)</string>
+    <string name="edit_task">Edit Task</string>
+    <string name="error_empty_title">Title cannot be empty</string>
+    <string name="no_tasks">No tasks available. Tap + to add one!</string>
+    <string name="save_task">Save Task</string>
+    <string name="task_completed">Completed</string>
+    <string name="title_hint">Task Title</string>
+    <string name="update_task">Update Task</string>
+    <style name="Base.Theme.SimpleTaskManager" parent="Theme.Material3.DayNight">
+        
+        <item name="colorPrimary">@color/colorPrimary</item>
+    </style>
+    <style name="Theme.SimpleTaskManager" parent="Base.Theme.SimpleTaskManager"/>
+</resources>
